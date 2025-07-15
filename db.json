@@ -97,29 +97,27 @@
             "noOfQuotes": 0
         }
     ],
-    "quotes": {
-        "query": [
-            {
-                "shipmentId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
-                "quoteId": "26eb6ec5-2ae9-4bb1-b07a-2c314dab13d8",
-                "transporterId": "5aeaff0e-2fbd-4489-b57d-38a34af399b5",
-                "quotePrice": "82546",
-                "quoteStatus": "ACTIVE"
-            },
-            {
-                "shipmentId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
-                "quoteId": "b201f043-d241-42a9-93c5-b5608395ff04",
-                "transporterId": "6bb648af-3f35-4938-9149-8829f0c1504d",
-                "quotePrice": "89000",
-                "quoteStatus": "ACTIVE"
-            },
-            {
-                "shipmentId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
-                "quoteId": "02d20116-9a4f-471a-b473-1316a41d9db3",
-                "transporterId": "a3e271b0-f197-486e-8011-ed7b1b56c922",
-                "quotePrice": "76890",
-                "quoteStatus": "ACTIVE"
-            }
-        ]
-    }
+    "quotes": [
+        {
+            "shipmentId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
+            "quoteId": "26eb6ec5-2ae9-4bb1-b07a-2c314dab13d8",
+            "transporterId": "5aeaff0e-2fbd-4489-b57d-38a34af399b5",
+            "quotePrice": "82546",
+            "quoteStatus": "ACTIVE"
+        },
+        {
+            "shipmentId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
+            "quoteId": "b201f043-d241-42a9-93c5-b5608395ff04",
+            "transporterId": "6bb648af-3f35-4938-9149-8829f0c1504d",
+            "quotePrice": "89000",
+            "quoteStatus": "ACTIVE"
+        },
+        {
+            "shipmentId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
+            "quoteId": "02d20116-9a4f-471a-b473-1316a41d9db3",
+            "transporterId": "a3e271b0-f197-486e-8011-ed7b1b56c922",
+            "quotePrice": "76890",
+            "quoteStatus": "ACTIVE"
+        }
+    ]
 }
