@@ -1,7 +1,100 @@
 {
-  "posts": [
-    { "id": 1, "title": "Hello", "author": "John" },
-    { "id": 2, "title": "Hi", "author": "Jane" },
-    { "id": 3, "title": "Greetings", "author": "John" }
+  "shipment-queries": [
+    {
+        "shipmentId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
+        "fromLocation": {
+            "addressLine1": "AddressLine 1",
+            "addressLine2": "addressLine2",
+            "area": "Area",
+            "city": "City",
+            "state": "State",
+            "pincode": "000000",
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        "toLocation": {
+            "addressLine1": "AddressLine 1",
+            "addressLine2": "addressLine2",
+            "area": "Area",
+            "city": "City",
+            "state": "State",
+            "pincode": "000000",
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        "loadWeight": 0,
+        "loadType": "Type",
+        "loadingDateTime": "yyyy-MM-ddTHH:mm:ss",
+        "careInstructions": "Handle with care",
+        "expirationDateTime": "yyyy-MM-ddTHH:mm:ss",
+        "creationDateTime": "yyyy-MM-ddTHH:mm:ss",
+        "shipmentStatus": "PENDING",
+        "queryStatus": "ACTIVE",
+        "noOfQuotes": 3
+    },
+    {
+        "shipmentId": "353fd080-cc76-4a95-bbd8-5e4dfd893649",
+        "fromLocation": {
+            "addressLine1": "AddressLine 1",
+            "addressLine2": "addressLine2",
+            "area": "Area",
+            "city": "City",
+            "state": "State",
+            "pincode": "000000",
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        "toLocation": {
+            "addressLine1": "AddressLine 1",
+            "addressLine2": "addressLine2",
+            "area": "Area",
+            "city": "City",
+            "state": "State",
+            "pincode": "000000",
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        "loadWeight": 0,
+        "loadType": "Type",
+        "loadingDateTime": "yyyy-MM-ddTHH:mm:ss",
+        "careInstructions": "Handle with care",
+        "expirationDateTime": "yyyy-MM-ddTHH:mm:ss",
+        "creationDateTime": "yyyy-MM-ddTHH:mm:ss",
+        "shipmentStatus": "PENDING",
+        "queryStatus": "ACTIVE",
+        "noOfQuotes": 0
+    },
+    {
+        "shipmentId": "6b7cd146-7e3c-494f-87a4-b11fa4ee63b9",
+        "fromLocation": {
+            "addressLine1": "AddressLine 1",
+            "addressLine2": "addressLine2",
+            "area": "Area",
+            "city": "City",
+            "state": "State",
+            "pincode": "000000",
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        "toLocation": {
+            "addressLine1": "AddressLine 1",
+            "addressLine2": "addressLine2",
+            "area": "Area",
+            "city": "City",
+            "state": "State",
+            "pincode": "000000",
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        "loadWeight": 0,
+        "loadType": "Type",
+        "loadingDateTime": "yyyy-MM-ddTHH:mm:ss",
+        "careInstructions": "Handle with care",
+        "expirationDateTime": "yyyy-MM-ddTHH:mm:ss",
+        "createdAt": "yyyy-MM-ddTHH:mm:ss",
+        "shipmentStatus": "PENDING",
+        "queryStatus": "ACTIVE",
+        "noOfQuotes": 0
+    }
   ]
 }
