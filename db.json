@@ -45,7 +45,7 @@
       "updatedAt": "2025-07-16T12:50:22.494Z"
     }
   ],
-  "shipment": [
+  "shipments": [
     {
       "shipmentId": "63b9cf54-0953-41fd-b6d7-12b28fa7d78a",
       "transporterId": "bb2576c4-8727-400b-a2e8-a71a61e57da9",
