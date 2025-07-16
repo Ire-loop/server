@@ -1,7 +1,7 @@
 {
   "shipment-queries": [
     {
-      "shipmentId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
+      "id": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
       "fromLocation": {
         "addressLine1": "AddressLine 1",
         "addressLine2": "addressLine2",
