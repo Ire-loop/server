@@ -24,11 +24,11 @@
       },
       "loadWeight": 0,
       "loadType": "Type",
+      "status": "PENDING",
       "loadingDateTime": "yyyy-MM-ddTHH:mm:ss",
       "careInstructions": "Handle with care",
       "expirationDateTime": "yyyy-MM-ddTHH:mm:ss",
       "creationDateTime": "yyyy-MM-ddTHH:mm:ss",
-      "shipmentStatus": "PENDING",
       "queryStatus": "ACTIVE",
       "noOfQuotes": 3
     }
