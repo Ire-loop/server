@@ -1,116 +1,116 @@
 {
-   "shipment-queries":[
-      {
-         "id":"ab884d50-c17e-42d2-a4f6-b645344f58f3",
-         "fromLocation":{
-            "addressLine1":"AddressLine 1",
-            "addressLine2":"addressLine2",
-            "area":"Area",
-            "city":"City",
-            "state":"State",
-            "pincode":"000000",
-            "latitude":0,
-            "longitude":0
-         },
-         "toLocation":{
-            "addressLine1":"AddressLine 1",
-            "addressLine2":"addressLine2",
-            "area":"Area",
-            "city":"City",
-            "state":"State",
-            "pincode":"000000",
-            "latitude":0,
-            "longitude":0
-         },
-         "loadWeight":0,
-         "loadType":"Type",
-         "status":"PENDING",
-         "dateAndTime":"yyyy-MM-ddTHH:mm:ss",
-         "careInstructions":"Handle with care",
-         "queryState":"ACTIVE",
-         "responseIds":3,
-         "expirationTime":"yyyy-MM-ddTHH:mm:ss",
-         "createdAt":"yyyy-MM-ddTHH:mm:ss"
-      }
-   ],
-   "quotes":[
-      {
-         "quoteId":"26eb6ec5-2ae9-4bb1-b07a-2c314dab13d8",
-         "queryId":"ab884d50-c17e-42d2-a4f6-b645344f58f3",
-         "transporterId":"5aeaff0e-2fbd-4489-b57d-38a34af399b5",
-         "quotedPrice":"82546",
-         "remarks":"string",
-         "status":"ACTIVE",
-         "createdAt":"2025-07-16T12:50:22.494Z",
-         "updatedAt":"2025-07-16T12:50:22.494Z"
-      }
-   ],
-   "shipment":[
-      {
-         "shipmentId":"63b9cf54-0953-41fd-b6d7-12b28fa7d78a",
-         "transporterId":"bb2576c4-8727-400b-a2e8-a71a61e57da9",
-         "agreementDate":"2025-07-16T13:25:50.851Z",
-         "fromLocation":{
-            "addressLine1":"AddressLine 1",
-            "addressLine2":"addressLine2",
-            "area":"Area",
-            "city":"City",
-            "state":"State",
-            "pincode":"000000",
-            "latitude":0,
-            "longitude":0
-         },
-         "toLocation":{
-            "addressLine1":"AddressLine 1",
-            "addressLine2":"addressLine2",
-            "area":"Area",
-            "city":"City",
-            "state":"State",
-            "pincode":"000000",
-            "latitude":0,
-            "longitude":0
-         },
-         "loadingDate":"yyyy-MM-ddTHH:mm:ss",
-         "deliveryDate":"yyyy-MM-ddTHH:mm:ss",
-         "type":"Type",
-         "weight":0,
-         "price":0,
-         "status":"ONGOING",
-         "createdAt":"yyyy-MM-ddTHH:mm:ss",
-         "updateAt":"yyyy-MM-ddTHH:mm:ss"
+  "shipment-queries": [
+    {
+      "id": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
+      "fromLocation": {
+        "addressLine1": "AddressLine 1",
+        "addressLine2": "addressLine2",
+        "area": "Area",
+        "city": "City",
+        "state": "State",
+        "pincode": "000000",
+        "latitude": 0,
+        "longitude": 0
       },
-      {
-         "shipmentId":"5c124074-f35d-47d1-991e-d45bcf54b10f",
-         "transporterId":"3fa85f64-5717-4562-b3fc-2c963f66afa6",
-         "agreementDate":"2025-07-16T13:25:50.851Z",
-         "fromLocation":{
-            "addressLine1":"AddressLine 1",
-            "addressLine2":"addressLine2",
-            "area":"Area",
-            "city":"City",
-            "state":"State",
-            "pincode":"000000",
-            "latitude":0,
-            "longitude":0
-         },
-         "toLocation":{
-            "addressLine1":"AddressLine 1",
-            "addressLine2":"addressLine2",
-            "area":"Area",
-            "city":"City",
-            "state":"State",
-            "pincode":"000000",
-            "latitude":0,
-            "longitude":0
-         },
-         "loadingDate":"yyyy-MM-ddTHH:mm:ss",
-         "deliveryDate":"yyyy-MM-ddTHH:mm:ss",
-         "type":"Type",
-         "weight":0,
-         "price":0,
-         "status":"COMPLETED",
-         "createdAt":"yyyy-MM-ddTHH:mm:ss",
-         "updateAt":"yyyy-MM-ddTHH:mm:ss"
-      }
-   ]
+      "toLocation": {
+        "addressLine1": "AddressLine 1",
+        "addressLine2": "addressLine2",
+        "area": "Area",
+        "city": "City",
+        "state": "State",
+        "pincode": "000000",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "loadWeight": 0,
+      "loadType": "Type",
+      "status": "PENDING",
+      "dateAndTime": "yyyy-MM-ddTHH:mm:ss",
+      "careInstructions": "Handle with care",
+      "queryState": "ACTIVE",
+      "responseIds": 3,
+      "expirationTime": "yyyy-MM-ddTHH:mm:ss",
+      "createdAt": "yyyy-MM-ddTHH:mm:ss"
+    }
+  ],
+  "quotes": [
+    {
+      "quoteId": "26eb6ec5-2ae9-4bb1-b07a-2c314dab13d8",
+      "queryId": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
+      "transporterId": "5aeaff0e-2fbd-4489-b57d-38a34af399b5",
+      "quotedPrice": "82546",
+      "remarks": "string",
+      "status": "ACTIVE",
+      "createdAt": "2025-07-16T12:50:22.494Z",
+      "updatedAt": "2025-07-16T12:50:22.494Z"
+    }
+  ],
+  "shipment": [
+    {
+      "shipmentId": "63b9cf54-0953-41fd-b6d7-12b28fa7d78a",
+      "transporterId": "bb2576c4-8727-400b-a2e8-a71a61e57da9",
+      "agreementDate": "2025-07-16T13:25:50.851Z",
+      "fromLocation": {
+        "addressLine1": "AddressLine 1",
+        "addressLine2": "addressLine2",
+        "area": "Area",
+        "city": "City",
+        "state": "State",
+        "pincode": "000000",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "toLocation": {
+        "addressLine1": "AddressLine 1",
+        "addressLine2": "addressLine2",
+        "area": "Area",
+        "city": "City",
+        "state": "State",
+        "pincode": "000000",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "loadingDate": "yyyy-MM-ddTHH:mm:ss",
+      "deliveryDate": "yyyy-MM-ddTHH:mm:ss",
+      "type": "Type",
+      "weight": 0,
+      "price": 0,
+      "status": "ONGOING",
+      "createdAt": "yyyy-MM-ddTHH:mm:ss",
+      "updateAt": "yyyy-MM-ddTHH:mm:ss"
+    },
+    {
+      "shipmentId": "5c124074-f35d-47d1-991e-d45bcf54b10f",
+      "transporterId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "agreementDate": "2025-07-16T13:25:50.851Z",
+      "fromLocation": {
+        "addressLine1": "AddressLine 1",
+        "addressLine2": "addressLine2",
+        "area": "Area",
+        "city": "City",
+        "state": "State",
+        "pincode": "000000",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "toLocation": {
+        "addressLine1": "AddressLine 1",
+        "addressLine2": "addressLine2",
+        "area": "Area",
+        "city": "City",
+        "state": "State",
+        "pincode": "000000",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "loadingDate": "yyyy-MM-ddTHH:mm:ss",
+      "deliveryDate": "yyyy-MM-ddTHH:mm:ss",
+      "type": "Type",
+      "weight": 0,
+      "price": 0,
+      "status": "COMPLETED",
+      "createdAt": "yyyy-MM-ddTHH:mm:ss",
+      "updateAt": "yyyy-MM-ddTHH:mm:ss"
+    }
+  ]
 }
