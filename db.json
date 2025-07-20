@@ -112,39 +112,5 @@
       "createdAt": "2025-02-28T11:23:40.851Z",
       "updateAt": "yyyy-MM-ddTHH:mm:ss"
     }
-  ],
-  "dashboard/carrier": [
-    {
-      "id": "ab884d50-c17e-42d2-a4f6-b645344f58f3",
-      "fromLocation": {
-        "addressLine1": "AddressLine 1",
-        "addressLine2": "addressLine2",
-        "area": "Area",
-        "city": "City",
-        "state": "State",
-        "pincode": "000000",
-        "latitude": 0,
-        "longitude": 0
-      },
-      "toLocation": {
-        "addressLine1": "AddressLine 1",
-        "addressLine2": "addressLine2",
-        "area": "Area",
-        "city": "City",
-        "state": "State",
-        "pincode": "000000",
-        "latitude": 0,
-        "longitude": 0
-      },
-      "loadWeight": 0,
-      "loadType": "Type",
-      "status": "PENDING",
-      "dateAndTime": "yyyy-MM-ddTHH:mm:ss",
-      "careInstructions": "Handle with care",
-      "queryState": "ACTIVE",
-      "responseIds": 3,
-      "expirationTime": "yyyy-MM-ddTHH:mm:ss",
-      "createdAt": "yyyy-MM-ddTHH:mm:ss"
-    }
   ]
 }
